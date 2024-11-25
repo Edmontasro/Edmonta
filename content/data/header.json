@@ -69,16 +69,6 @@
                 }
             ],
             "labelStyle": "secondary"
-        },
-        {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/English",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "showIcon": true
         }
     ],
     "secondaryLinks": [],
